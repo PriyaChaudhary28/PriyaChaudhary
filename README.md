@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Priya+Chaudhary;Aspiring+Software+Developer;DSA+%7C+MERN+%7C+Data+Analysis;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+</p>
 <h1 align="center">Hi 👋, I'm Priya Chaudhary</h1>
 <h3 align="center">Aspiring Software Developer | Passionate about DSA, Web Dev & Data Analysis</h3>
 
@@ -11,7 +14,7 @@
 
 ---
 
-### 🔧 Technologies & Tools I Use
+### 🛠️ Technologies & Tools I Use
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -25,12 +28,31 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats (2025)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PriyaChaudhary&show_icons=true&theme=tokyonight" alt="Priya's GitHub Stats"/>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PriyaChaudhary&theme=tokyonight" alt="GitHub Streak"/>
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=PriyaChaudhary&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyaChaudhary&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
+
+---
+
+### 📆 GitHub Contribution Graph
+<p align="center">
+  <img src="https://github-contribution-graph.ezra.sh/PriyaChaudhary?theme=tokyo-night" alt="Contribution Graph" />
+</p>
+
+---
+
+### 📌 Featured Projects
+Here are some of my favorite or most active repositories:
+- 🔥 [E-Shopify](https://github.com/PriyaChaudhary/E-Shopify) — Full-stack e-commerce app with MERN
+- 👥 [CodeCollab](https://github.com/PriyaChaudhary/CodeCollab) — Real-time code collaboration tool
+- 🌐 [DevConnector](https://github.com/PriyaChaudhary/DevConnector) — Developer social media project
+
+> *(Replace the above links with your actual repos if you haven't made them yet — I can help you set them up!)*
 
 ---
 
