@@ -38,14 +38,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyaChaudhary&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages"/>
 </p>
 
----
 
-### 📈 My GitHub Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PriyaChaudhary&theme=tokyo-night&area=true" alt="Contribution Graph" />
-</p>
-
----
 
 ### 📌 Featured Projects
 Here are some of my favorite or most active repositories:
