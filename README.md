@@ -35,14 +35,14 @@
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=PriyaChaudhary&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyaChaudhary&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyaChaudhary&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages"/>
 </p>
 
 ---
 
-### 📆 GitHub Contribution Graph
+### 📈 My GitHub Contribution Graph
 <p align="center">
-  <img src="https://github-contribution-graph.ezra.sh/PriyaChaudhary?theme=tokyo-night" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PriyaChaudhary&theme=tokyo-night&area=true" alt="Contribution Graph" />
 </p>
 
 ---
@@ -53,7 +53,7 @@ Here are some of my favorite or most active repositories:
 - 👥 [CodeCollab](https://github.com/PriyaChaudhary/CodeCollab) — Real-time code collaboration tool
 - 🌐 [DevConnector](https://github.com/PriyaChaudhary/DevConnector) — Developer social media project
 
-> *(Replace the above links with your actual repos if you haven't made them yet — I can help you set them up!)*
+
 
 ---
 
