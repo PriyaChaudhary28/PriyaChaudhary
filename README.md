@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Priya+Chaudhary;Aspiring+Software+Developer;DSA+%7C+MERN+%7C+Data+Analysis;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Priya+Chaudhary;Aspiring+Software+Developer+from+India;DSA+%7C+MERN+Stack+%7C+Data+Analysis;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </p>
+
 <h1 align="center">Hi 👋, I'm Priya Chaudhary</h1>
 <h3 align="center">Aspiring Software Developer | Passionate about DSA, Web Dev & Data Analysis</h3>
 
